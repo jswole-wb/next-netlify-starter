@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Warner Bros Discovery Max Plus Prime not disney app" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <img src="wbdiscovery.jpg">
         </p>
       </main>
 
